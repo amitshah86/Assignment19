@@ -59,7 +59,7 @@
     left: -1.85714em; }
 
 .fa-border {
-  padding: 0.2em 0.25em 0.15em;
+  padding: .2em .25em .15em;
   border: solid 0.08em #eee;
   border-radius: .1em; }
 
@@ -2018,7 +2018,44 @@
 .fa-fonticons:before {
   content: ""; }
 
-body {
-  background: #e2ebf3; }
+ul li {
+  list-style: none; }
+
+.myPeeps {
+  font-size: 18px;
+  border: 1px solid gray;
+  width: 340px;
+  height: 60px;
+  background-color: #85BD00;
+  color: white;
+  cursor: pointer; }
+
+.amitShah {
+  font-size: 13px;
+  border: 1px solid gray;
+  width: 340px;
+  height: 60px;
+  cursor: pointer; }
+
+.krishenShah {
+  font-size: 13px;
+  border: 1px solid gray;
+  width: 340px;
+  height: 60px;
+  cursor: pointer; }
+
+.sheelaShah {
+  font-size: 13px;
+  border: 1px solid gray;
+  width: 340px;
+  height: 60px;
+  cursor: pointer; }
+
+.ashShah {
+  font-size: 13px;
+  border: 1px solid gray;
+  width: 340px;
+  height: 60px;
+  cursor: pointer; }
 
 /*# sourceMappingURL=main.css.map */
